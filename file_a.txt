@@ -9,3 +9,8 @@ Előnyei:
 - A branching által izolált környezetet biztosít minden feljesztő
 számára
 - Széles körben ismert
+
+A .gitignore fájlba írni hogy figyelmen kívül hagyja az összes txt fájlt:
+<*.txt>
+
+
