@@ -1,0 +1,11 @@
+Git:
+- Szoftverfejlesztéskor használt nagy gyorsaságú verziókezelő rendszer
+
+Verziókezelő rendszer: Egy olyan rendszer ami lehetővé teszi különböző
+verzióval rendelkező adatok kezelését.
+
+Előnyei:
+- Több ember dolgozhat egyszerre egy projekten 
+- A branching által izolált környezetet biztosít minden feljesztő
+számára
+- Széles körben ismert
